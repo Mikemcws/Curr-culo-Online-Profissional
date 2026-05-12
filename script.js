@@ -63,5 +63,5 @@ document.querySelector('.footer p:last-child').innerHTML =
 
 console.log('👋 Bem-vindo ao meu currículo online!');
 console.log('📧 Contato: caciqye@hotmail.com');
-console.log('📱 WhatsApp: (16) 99372-0426');
+console.log('📱 WhatsApp: (16) 99284-7413');
 console.log('🚀 Vamos construir algo incrível juntos!');
